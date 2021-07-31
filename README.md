@@ -8,7 +8,7 @@
 -
 
 
-## My Github Stats
+## MY GITHUB STATS
 
 <p align="center">
     <img
