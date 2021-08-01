@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm ReaprX , A Developer from Sri Lanka 🇱🇰   |  ![Profile views](https://gpvc.arturio.dev/reaprx)
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm ReaprX , <br> A Developer from Sri Lanka 🇱🇰   <br> ![Profile views](https://gpvc.arturio.dev/reaprx)
 
 -
 -
@@ -10,11 +10,12 @@
 
 ## MY GITHUB STATS
 
-<p align="center">
+<p>
     <img
         width="49%"
         src="https://github-readme-stats.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
+    <br><br>
     <img
         width="49%"
         src="https://github-readme-streak-stats.herokuapp.com?user=reaprx&theme=tokyonight"
