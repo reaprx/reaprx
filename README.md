@@ -6,14 +6,14 @@
 -  proud to be a 🇷🇴 
 
 ****
-<p align="center">
-<img   src="https://miro.medium.com/max/1838/1*9S3JhMtLGiacpNpziWGN1A.gif" />
+<p align="center" >
+    <img  width="75%" src="https://miro.medium.com/max/1838/1*9S3JhMtLGiacpNpziWGN1A.gif" />
 </p>
 
 
-## My Github Stats
+##  My Github Stats
 
-<p >
+<p align="center" >
     <img 
         src="https://github-readme-stats.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
@@ -24,12 +24,11 @@
 </p>
 
 ## Most Used Languages
-          
+
 ![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=dark&show_icons=true) 
-    
+ 
 
         
-</p>
 
 
 ****
