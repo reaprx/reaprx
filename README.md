@@ -6,20 +6,19 @@
 -  proud to be a 🇷🇴 
 
 ****
-
-<img width="50%" align="center" src="https://miro.medium.com/max/1838/1*9S3JhMtLGiacpNpziWGN1A.gif" />
-
+<p align="center">
+<img   src="https://miro.medium.com/max/1838/1*9S3JhMtLGiacpNpziWGN1A.gif" />
+</p>
 
 
 ## My Github Stats
 
-<p align="center">
-    <img
-        width="49%"
+<p >
+    <img 
         src="https://github-readme-stats.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
+<br>
     <img
-        width="49%"
         src="https://github-readme-streak-stats.herokuapp.com?user=reaprx&theme=tokyonight"
     />
 </p>
