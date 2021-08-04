@@ -2,8 +2,7 @@
 ****
 
 
--   A Developer from Sri Lanka 🇱🇰 
--  proud to be a 🇷🇴 
+- A Developer from Sri Lanka 🇱🇰  
 
 ****
 <p align="center" >
