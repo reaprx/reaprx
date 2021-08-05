@@ -11,7 +11,7 @@
 
 ## Most Used Languages
 
-<p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=dark&hide_langs_below=1" /></a></p>
+<p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=1" /></a></p>
 
 ##  My Github Stats
 
