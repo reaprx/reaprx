@@ -9,6 +9,9 @@
     <img  width="75%" src="https://miro.medium.com/max/1838/1*9S3JhMtLGiacpNpziWGN1A.gif" />
 </p>
 
+## Most Used Languages
+
+<p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=dark&hide_langs_below=1" /></a></p>
 
 ##  My Github Stats
 
@@ -22,12 +25,7 @@
     />
 </p>
 
-## Most Used Languages
 
-![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=dark&show_icons=true) 
- 
-
-        
-
+       
 
 ****
