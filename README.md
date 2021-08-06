@@ -5,24 +5,24 @@
 - A Developer from Sri Lanka 🇱🇰  
 
 ****
-<p align="center" >
-    <img  width="75%" src="https://miro.medium.com/max/1838/1*9S3JhMtLGiacpNpziWGN1A.gif" />
+<p align="center" ><a href="https://github.com/reaprx/">
+    <img  width="75%" src="https://miro.medium.com/max/1838/1*9S3JhMtLGiacpNpziWGN1A.gif" /></a>
 </p>
 
 ## Most Used Languages
 
-<p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=1" /></a></p>
+<p align="center"><a href="https://github.com/reaprx/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=1" /></a></p>
 
 ##  My Github Stats
 
-<p align="center" >
+<p align="center" ><a href="https://github.com/reaprx/">
     <img 
         src="https://github-readme-stats.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
 <br>
     <img
         src="https://github-readme-streak-stats.herokuapp.com?user=reaprx&theme=tokyonight"
-    />
+         /></a>
 </p>
 
 
