@@ -1,9 +1,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Hasalanka.  |  ![Profile views](https://gpvc.arturio.dev/reaprx)  |  <a href="https://t.me/reaprx"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 ****
 
-
-- A Developer from Sri Lanka 🇱🇰  
-
 ****
 <p align="center" ><a href="https://github.com/reaprx/">
     <img  width="75%" src="https://miro.medium.com/max/1838/1*9S3JhMtLGiacpNpziWGN1A.gif" /></a>
