@@ -6,6 +6,7 @@
     <img  src="https://i.pinimg.com/originals/2a/3c/75/2a3c753492d906b7047bc8eb3e240c29.gif" /></a>
 </p>
 
+
 - ⚡ I'm a noob developer from 🇱🇰 
 
 - 👨‍💻 I’m currently working on something cool 🤪
@@ -19,7 +20,7 @@
 
 ## Most Used Languages
 
-<p align="center"><a href="https://github.com/reaprx/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=1" /></a></p>
+<p align="center"><a href="https://github.com/reaprx/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=2" /></a></p>
 
 
 ##  My Github Stats
