@@ -7,7 +7,7 @@
 </p>
 
 
-- ⚡ I'm a noob developer from 🇱🇰 
+- ⚡ I'm a noob developer from Sri Lanka 🇱🇰 
 
 - 👨‍💻 I’m currently working on something cool 🤪
 
