@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm Hasalanka Seneviratne.   
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm Hasalanka.   
 ![Profile views](https://gpvc.arturio.dev/reaprx)  <a href="https://t.me/reaprx"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 
 
