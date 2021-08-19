@@ -2,11 +2,6 @@
 ![Profile views](https://gpvc.arturio.dev/reaprx)  <a href="https://t.me/reaprx"> ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue) </a>
 
 
-<p align="center" ><a href="https://github.com/reaprx/">
-    <img  src="https://i.pinimg.com/originals/2a/3c/75/2a3c753492d906b7047bc8eb3e240c29.gif" /></a>
-</p>
-
-
 - ⚡ I'm a noob developer from Sri Lanka 🇱🇰 
 
 - 👨‍💻 I’m currently working on something cool 🤪
@@ -17,6 +12,9 @@
 
 - 📫 How to reach me: <a href="https://t.me/reaprx/">@reaprx</a>
 
+<p align="center" ><a href="https://github.com/reaprx/">
+    <img  src="https://i.pinimg.com/originals/2a/3c/75/2a3c753492d906b7047bc8eb3e240c29.gif" /></a>
+</p>
 
 ## Most Used Languages
 
