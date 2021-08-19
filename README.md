@@ -18,20 +18,22 @@
 
 ## Most Used Languages
 
-<p align="center"><a href="https://github.com/reaprx"><img align="center" src="https://githubstats-k6scctkls-reaprx.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=2" /></a></p>
+<p align="center"><a href="https://github.com/reaprx"><img src="https://githubstats-k6scctkls-reaprx.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=2" /></a></p>
 
 
 ##  My Github Stats
 
-<p align="center" ><a href="https://github.com/reaprx">
+<p align="center"><a href="https://github.com/reaprx"><img src="https://github-profile-trophy.vercel.app/?username=reaprx&theme=discord&row=2&column=3"></p>
+
+<p align="center" >
     <img 
         src="https://githubstats-k6scctkls-reaprx.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
 <br>
     <img
         src="https://github-readme-streak-stats.herokuapp.com?user=reaprx&theme=tokyonight"
-         /></a>
-</p>
+         />
+</p></a>
 
 
 
