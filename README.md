@@ -10,7 +10,7 @@
 
 - 💬 Ask me about anything. I am happy to help you
 
-- 📫 How to reach me: <a href="https://t.me/reaprx/">@reaprx</a>
+- 📫 How to reach me: <a href="mailto:iamreaprx@gmail.com">iamreaprx@gmail.com</a>
 
 <p align="center" ><a href="https://github.com/reaprx/">
     <img  src="https://i.pinimg.com/originals/2a/3c/75/2a3c753492d906b7047bc8eb3e240c29.gif" /></a>
