@@ -18,7 +18,7 @@
 
 ## Most Used Languages
 
-<p align="center"><a href="https://github.com/reaprx"><img src="https://githubstats-k6scctkls-reaprx.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=2" /></a></p>
+<p align="center"><a href="https://github.com/reaprx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=1" /></a></p>
 
 
 ##  My Github Stats
@@ -27,14 +27,13 @@
 
 <p align="center" >
     <img 
-        src="https://githubstats-k6scctkls-reaprx.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+        src="https://github-readme-stats.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
     />
 <br>
     <img
         src="https://github-readme-streak-stats.herokuapp.com?user=reaprx&theme=tokyonight"
          />
 </p></a>
-
 
 
 
