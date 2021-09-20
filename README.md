@@ -12,28 +12,19 @@
 
 - 📫 How to reach me: <a href="mailto:iamreaprx@gmail.com">iamreaprx@gmail.com</a>
 
-<p align="center" ><a href="https://github.com/reaprx/">
-    <img  src="https://i.pinimg.com/originals/2a/3c/75/2a3c753492d906b7047bc8eb3e240c29.gif" /></a>
-</p>
-
-## Most Used Languages
-
-<p align="center"><a href="https://github.com/reaprx"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&hide_langs_below=1" /></a></p>
 
 
 ##  My Github Stats
 
-<p align="center"><a href="https://github.com/reaprx"><img src="https://github-profile-trophy.vercel.app/?username=reaprx&theme=discord&row=2&column=3"></p>
+<p ><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&layout=compact&hide_langs_below=1" /></a></p>
 
-<p align="center" >
-    <img 
-        src="https://github-readme-stats.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
-    />
-<br>
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com?user=reaprx&theme=tokyonight"
-         />
-</p></a>
+<p><img src="https://github-profile-trophy.vercel.app/?username=reaprx&theme=discord&row=2&column=3"></p>
+
+<p>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"></a>
+
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=reaprx&theme=tokyonight"></a>
+</p>
 
 
 
