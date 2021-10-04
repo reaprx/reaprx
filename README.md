@@ -13,7 +13,7 @@
 ##  My Github Stats
 
 <p align="center">
-    <a href="https://github.com/reapr">
+    <a href="https://github.com/reaprx">
         <img width="49%" src="https://github-readme-stats.vercel.app/api?username=reaprx&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"/>
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=reaprx&theme=tokyonight"/>
         <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reaprx&theme=tokyonight&layout=compact&langs_count=10"/>
