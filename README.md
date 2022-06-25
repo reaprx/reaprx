@@ -8,7 +8,7 @@
 
 - 💬 Ask me about anything. I am happy to help you
 
-- 📫 How to reach me: <a href="mailto:iamreaprx@gmail.com">iamreaprx@gmail.com</a>
+- 📫 How to reach me: <a href="mailto:seneviratnehasalanka@gmail.com">seneviratnehasalanka@gmail.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
