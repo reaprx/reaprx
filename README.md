@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there I'm Hasalanka. | <img src="https://komarev.com/ghpvc/?username=reaprx&label=Profile%20Views&color=blue&style=flat">
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"> Hi there I'm Hasalanka. | <img src="https://komarev.com/ghpvc/?username=reaprx&label=Profile%20Views&color=blue&style=flat">
 
 - 👨‍💻 A developer from Sri Lanka 🇱🇰 
 
